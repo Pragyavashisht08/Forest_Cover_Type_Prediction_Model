@@ -93,8 +93,6 @@ streamlit run main.py
 
 `machine-learning` • `random-forest` • `streamlit` • `python` • `classification` • `geospatial-data` • `scikit-learn` • `uci-dataset` • `data-science` • `forest-cover-type`
 
-> Add these in your GitHub repo topics for better reach.
-
 ---
 
 ## 📬 Contact
